@@ -1,9 +1,6 @@
 ## Hi there, I'm Cameron 👋👨‍💻
 
-A software developer looking to learn and to code to make the world a better and more open place.
-
-- 🌱 I’m currently working on projects with [React](https://reactjs.org/) and [Go](https://golang.org)
-- 🤔 I’m looking for help with open source projects.
+- 🌱 I’m currently working on Oxc, oxlint, tsgolint at VoidZero
 - 💬 Ask me about anything!
 - 📫 Drop me an email at: cameron.clark@hey.com
 
