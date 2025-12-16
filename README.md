@@ -1,11 +1,21 @@
-## Hi there, I'm Cameron 👋👨‍💻
+## Hi there, I'm Cameron 👋.
 
-- 🌱 I’m currently working on Oxc, oxlint, tsgolint at VoidZero
-- 💬 Ask me about anything!
-- 📫 Drop me an email at: cameron.clark@hey.com
+Software Engineer at [VoidZero](https://voidzero.io), on the [Oxc Core Team](https://oxc.rs/team.html), working on building next generation tooling for TypeScript.
 
-<p align="left" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=camc314&&show_icons=true&theme=dark&hide=stars&count_private=true&title_color=000000&bg_color=ffffff&text_color=565656&icon_color=0688ff"/>
-  </a>
-  </p>
+### What I work on?
+
+-   [Oxc](https://oxc.rs): Fastest JavaScript and TypeScript parser, analyzer, formatter, transformer and minifier.
+-   [Oxlint](https://github.com/oxc-project/oxc): Fastest linter for JavaScript and TypeScript built on Oxc.
+-   [Tsgolint](https://github.com/oxc-project/tsgolint): Typeaware linter built on TypeScript Go for Oxlint
+
+### Get in touch
+
+-   💬 Ask me about anything!
+-   📫 Drop me an email at: cameron.clark@hey.com
+
+### Projects I maintain
+
+| npmjs.com                                                    | Weekly Downloads                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| [oxlint](https://npmjs.com/package/oxlint)                   | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm)          |
+| [oxlint-tsgolint](https://npmjs.com/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
