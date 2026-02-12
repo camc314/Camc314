@@ -1,6 +1,6 @@
 ## Hi there, I'm Cameron 👋.
 
-Software Engineer at [VoidZero](https://voidzero.io), on the [Oxc Core Team](https://oxc.rs/team.html), working on building next generation tooling for TypeScript.
+Software Engineer at [VoidZero](https://voidzero.dev), on the [Oxc Core Team](https://oxc.rs/team.html), working on building next generation tooling for TypeScript.
 
 ### What I work on?
 
