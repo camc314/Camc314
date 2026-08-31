@@ -1,12 +1,12 @@
-## Hi there, I'm Cameron 👋.
+## Hi, I'm [Cameron](https://x.com/cameron_c2).
 
-Software Engineer at [VoidZero](https://voidzero.dev), on the [Oxc Core Team](https://oxc.rs/team.html), working on building next generation tooling for TypeScript.
+At [Cloudflare](https://cloudflare.com), working in the [VoidZero](https://voidzero.dev) team, building the best tooling possible for TypeScript developers/
 
 ### What I work on?
 
 -   [Oxc](https://oxc.rs): Fastest JavaScript and TypeScript parser, analyzer, formatter, transformer and minifier.
 -   [Oxlint](https://github.com/oxc-project/oxc): Fastest linter for JavaScript and TypeScript built on Oxc.
--   [Tsgolint](https://github.com/oxc-project/tsgolint): Typeaware linter built on TypeScript Go for Oxlint
+-   [Tsgolint](https://github.com/oxc-project/tsgolint): Type Aware linter built on TypeScript Go for Oxlint
 
 ### Get in touch
 
@@ -18,4 +18,5 @@ Software Engineer at [VoidZero](https://voidzero.dev), on the [Oxc Core Team](ht
 | npmjs.com                                                    | Weekly Downloads                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | [oxlint](https://npmjs.com/package/oxlint)                   | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm)          |
+| [oxc-parser](https://npmjs.com/package/oxc-parser)                   | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm)          |
 | [oxlint-tsgolint](https://npmjs.com/package/oxlint-tsgolint) | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
